@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719601786 source:c:\users\gusta\downloads\hotel - fundamentos e aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<assert.h>
+
+1719601786 source:c:\users\gusta\downloads\trabalho de aeds e fundamentos\hotel - fundamentos e aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<assert.h>
+
